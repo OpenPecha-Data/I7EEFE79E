@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W8LS19048
   title: བོད་ལུགས་གསོ་རིག་སྨན་པའི་ཐོབ་ཐང་རྒྱུགས་བཤེར་གྱི་དྲི་གཞི་འཚོ་བྱེད་རྣམས་ལ་ཉེ་བར་མཁོ་བ།
-  volume: ''
+  volume:
+    8049939449234eed92ea42e1df6536e6:
+      image_group_id: I8LS19050
+      title: Volume 1 of bod lugs gso rig sman pa'i thob thang rgyugs bsher gyi dri
+        gzhi 'tsho byed rnams la nye bar mkho ba/
+      volume_number: 1
+      total_pages: 332
   author: ''
+ebook_metadata:
+  title: བོད་ལུགས་གསོ་རིག་སྨན་པའི་ཐོབ་ཐང་རྒྱུགས་བཤེར་གྱི་དྲི་གཞི་འཚོ་བྱེད་རྣམས་ལ་ཉེ་བར་མཁོ་བ།
+  author: ''
+  sku: P007089
+  cover: cover.jpg
+  layers:
+  - pagination
