@@ -5,11 +5,13 @@ source_metadata:
   title: བོད་ལུགས་གསོ་རིག་སྨན་པའི་ཐོབ་ཐང་རྒྱུགས་བཤེར་གྱི་དྲི་གཞི་འཚོ་བྱེད་རྣམས་ལ་ཉེ་བར་མཁོ་བ།
   author: ''
   volumes:
-    7715d287d0eb45c3851a2163c1e04da7:
+    8049939449234eed92ea42e1df6536e6:
       image_group_id: I8LS19050
-      title: ''
+      title: Volume 1 of bod lugs gso rig sman pa'i thob thang rgyugs bsher gyi dri
+        gzhi 'tsho byed rnams la nye bar mkho ba/
       volume_number: 1
       total_pages: 332
+      base_file: v001.txt
 ebook_metadata:
   title: བོད་ལུགས་གསོ་རིག་སྨན་པའི་ཐོབ་ཐང་རྒྱུགས་བཤེར་གྱི་དྲི་གཞི་འཚོ་བྱེད་རྣམས་ལ་ཉེ་བར་མཁོ་བ།
   author: ''
